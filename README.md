@@ -62,4 +62,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 ## Author
-Developed by [hatecoding123](LICENSE).
+Developed by [hatecoding123](https://github.com/hatecoding123).
