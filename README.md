@@ -52,10 +52,10 @@ Balanced Accuracy: 0.95
 Enter the sepal.length and petal.length for the iris in the format 'sepal_length,petal_length': 5.1,1.8
 Predicted Label: Virginica
 ```
-Format: ![Alt Text](url)
+
 ## Notes
-1. Ensure that the input for predictions is numeric and follows the correct format (value1,value2).
-2. Modify the dataset loading path in the script if necessary.
+- Ensure that the input for predictions is numeric and follows the correct format ('value1','value2').
+- Modify the dataset loading path in the script if necessary.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
